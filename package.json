@@ -1,0 +1,22 @@
+{
+  "name": "cypresse2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.4",
+    "cypress": "^4.12.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^1.3.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "@cypress/request": "^2.88.11"
+  },
+  "description": ""
+}
